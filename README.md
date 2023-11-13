@@ -1,5 +1,4 @@
 # app-dev
-My first repository.
 
 My favorite Moviees
 1. The Conjuring
